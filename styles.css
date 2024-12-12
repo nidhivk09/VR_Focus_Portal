@@ -181,10 +181,23 @@ a#scroll-btn:before{
     flex-direction:row;
 }
 
+.Forest{
+    margin-top:60px;
+    margin-bottom:30px;
+    margin-left: 50px;
+    margin-right:20px;
+    display: flex;
+    flex-direction:row;
+}
 
-
-
-
+.Uni{
+    margin-top:60px;
+    margin-bottom:30px;
+    margin-left: 50px;
+    margin-right:20px;
+    display: flex;
+    flex-direction:row;
+}
 
 
 .namo{
